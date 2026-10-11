@@ -141,22 +141,6 @@ Instead of having the game only run inside the Unity editor, I learned how to bu
 
 ---
 
-## 🔮 Future Improvements
-
-Some things that could be added in the future:
-
-* [ ] Add sound effects and background music
-* [ ] Add a high-score system
-* [ ] Add different difficulty levels
-* [ ] Add a start menu
-* [ ] Add pause functionality
-* [ ] Add improved animations
-* [ ] Add additional visual effects
-* [ ] Improve mobile controls
-* [ ] Improve the overall UI/UX
-
----
-
 ## 📚 Reflection
 
 Game development isn't exactly my forte, but I'm glad I got the chance to explore it.
